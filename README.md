@@ -12,7 +12,7 @@ This uploads a new image into a twitter thread whenever it runs.
 1. The images are in `images/`
 
 2. You need the GNU find. If you're on a Mac, do `homebrew install findutils`;
-this now runs as gfind.
+this now runs as `gfind`.
 
 3. `./bootup.sh` makes the database and lists the images, and makes
 the work table. It does this by piping SQL directly into SQLite3.
@@ -21,6 +21,7 @@ the work table. It does this by piping SQL directly into SQLite3.
    - You need python3
    - You need Twython installed (`pip install twython`).
    - You need an API key from Twitter and a token pair.
+   - Go into that file there are many options at the top.
 
 5. If you want to automate, you can set up a cronjob that runs
 `./tweetit.py` every hour.
