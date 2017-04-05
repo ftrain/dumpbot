@@ -7,6 +7,8 @@
                       █
 ```
 
+This is by Paul Ford, mailto:ford@ftrain.com.
+
 This uploads a new image into a twitter thread whenever it runs.
 
 1. The images are in `images/`
