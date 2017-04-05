@@ -9,7 +9,14 @@
 
 This is by Paul Ford, mailto:ford@ftrain.com.
 
-This uploads a new image into a twitter thread whenever it runs.
+This uploads a new image into a twitter thread whenever it runs. There
+was this amazing imageboard called MLKSHK that ran at MLKSHK.com, and
+it is shutting down. There's a replacement, MLTSHP.com, but it's not
+up yet. Anyway, I loved this thing and I posted (or more often
+re-posted) 6,000 images over five years and it's a pretty great
+collection and I forget most of them, so I wrote this bot to dump them
+onto Twitter once an hour and frankly it has made Twitter a more fun
+place for me.
 
 1. The images are in `images/`
 
